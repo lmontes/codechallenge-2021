@@ -1,0 +1,35 @@
+Trying 51.103.36.164...
+Connected to codechallenge-daemons.0x14.net.
+Escape character is '^]'.
+Welcome, my friend! You are at the beginning of a long dark dungeon. What do you want to do? Enter order (empty line or 'bye' for finish):
+north - south - east - west - look - where am I - go to x,y - is exit? - bye
+
+north
+Ouch. It seems you can't go there
+
+south
+Ouch. It seems you can't go there
+
+east
+Ouch. It seems you can't go there
+
+west
+Great movement. Here is your new position: (1, 0)
+
+look
+Well, well, well, my friend. You could do these movements: west
+
+where am I
+(0, 0)
+
+go to 1,0
+Great movement. Here is your new position: (1, 0)
+
+is exit?
+No. Sorry, traveller...
+
+bye
+Good bye, my friend... I wish you a good trip
+
+Oh, no! You took too much time to exit. An orc caught you. The beast nails his orc sword in your chest. You die in the darkness of the maze...
+Connection closed by foreign host.
